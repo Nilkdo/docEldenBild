@@ -1,0 +1,312 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/EldenRing-fondo-de-pantalla-problemas-en-pc-1170x658.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 793px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 232px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px auto 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 654px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 501px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 376px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+} .u-section-2 {
+  background-image: url("images/1366_2000.jpeg");
+  background-position: 11.04% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 846px;
+}
+
+.u-section-2 .u-image-1 {
+  object-position: 50% 53.04%;
+  width: 361px;
+  height: 677px;
+  margin: 56px auto 0 165px;
+}
+
+.u-section-2 .u-group-1 {
+  min-height: 569px;
+  width: 360px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  height: auto;
+  margin: -649px 139px 60px auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 15px 30px 30px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 7px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 35px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 698px;
+  }
+
+  .u-section-2 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 535px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 401px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 212px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 637px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 340px;
+    margin-top: -609px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+  }
+} .u-section-3 {
+  background-image: url("images/1366_2000.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 846px;
+}
+
+.u-section-3 .u-image-1 {
+  object-position: 50% 53.04%;
+  width: 361px;
+  height: 677px;
+  margin: 56px auto 0 165px;
+}
+
+.u-section-3 .u-group-1 {
+  min-height: 319px;
+  width: 338px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  height: auto;
+  margin: -336px 183px 60px auto;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 15px 10px 20px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 7px 20px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 35px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 698px;
+  }
+
+  .u-section-3 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 535px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 401px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 2.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 212px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 637px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-group-1 {
+    margin-top: -296px;
+    margin-right: 2px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.5rem;
+  }
+} .u-section-4 {
+  background-image: url("images/gameLover_28112022-1024x499.png");
+  background-position: 73.04% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 846px;
+}
+
+.u-section-4 .u-image-1 {
+  object-position: 50% 53.04%;
+  width: 361px;
+  height: 677px;
+  margin: 56px auto 0 165px;
+}
+
+.u-section-4 .u-group-1 {
+  min-height: 319px;
+  width: 338px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  height: auto;
+  margin: -335px 183px 60px auto;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 15px 10px 20px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 7px 20px 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 8px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 698px;
+  }
+
+  .u-section-4 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 535px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 401px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 2.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 212px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 340px;
+    height: 637px;
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-group-1 {
+    margin-top: -295px;
+    margin-right: 2px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1.5rem;
+  }
+}
